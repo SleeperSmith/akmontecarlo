@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Jason Chen
+Build-Jdk: 17.0.8.1
+Class-Path: lib/spring-context-6.0.12.jar lib/spring-aop-6.0.12.jar lib/
+ spring-beans-6.0.12.jar lib/spring-core-6.0.12.jar lib/spring-jcl-6.0.1
+ 2.jar lib/spring-expression-6.0.12.jar
+Main-Class: com.bitclouded.akmontecarlo.App
+Created-By: Maven Integration for Eclipse
+
